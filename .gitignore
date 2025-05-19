@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Optional: OS-specific files
+.DS_Store
+Thumbs.db
